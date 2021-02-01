@@ -1,4 +1,4 @@
-# FabFlix_Updated
+# FabFlix
 
 ## About
 Fabflix is a buy/search movies web application.
