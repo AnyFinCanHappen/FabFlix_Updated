@@ -6,7 +6,7 @@ Fabflix is a buy/search movies web application.
 ## Back-End
 -Java\
 -Grizzly(Http Server)\
--JAVA-RS(RESTful Web Services)\
+-JAX-RS(RESTful Web Services)\
 -JDBC(Database Connectivity)\
 -PayPal API
 
